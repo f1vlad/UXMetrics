@@ -1,5 +1,5 @@
 # UXMetrics
-SugarCRM custom module used by UIUX team
+UXMetrics is a custom module designed to test user experience by capturing various metrics of a number of pre-defined flows within the app.
 
 # Installation
 - Copy sugarcrm directory (inside SUGARCRM_INSTALL) to your custom ~/install_dir/.
